@@ -10,11 +10,5 @@ module.exports = {
     '<rootDir>/libs/review/feature-details',
     '<rootDir>/libs/review/feature-list',
     '<rootDir>/apps/store',
-    '<rootDir>/libs/store/feature-list',
-    '<rootDir>/libs/store/feature-details',
-    '<rootDir>/libs/store/feature-cart',
-    '<rootDir>/libs/store/ui-formatters',
-    '<rootDir>/libs/store/data-access-games',
-    '<rootDir>/libs/store/data-access-cart',
   ],
 };
