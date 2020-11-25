@@ -3,5 +3,6 @@ module.exports = {
     '<rootDir>/apps/review',
     '<rootDir>/apps/api',
     '<rootDir>/libs/api-interfaces',
+    '<rootDir>/apps/store',
   ],
 };
