@@ -35,31 +35,6 @@
     },
     "api-interfaces": {
       "tags": []
-    },
-    "review-ui-tile": {
-      "tags": []
-    },
-    "review-util-formatters": {
-      "tags": []
-    },
-    "review-data-access-games": {
-      "tags": []
-    },
-    "review-feature-lib": {
-      "tags": []
-    },
-    "review-feature-details": {
-      "tags": []
-    },
-    "review-feature-list": {
-      "tags": []
-    },
-    "store": {
-      "tags": []
-    },
-    "store-e2e": {
-      "tags": [],
-      "implicitDependencies": ["store"]
     }
   }
 }
